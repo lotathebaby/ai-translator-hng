@@ -1,0 +1,27 @@
+{
+  "name": "stage3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "next": "^15.1.7",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.10",
+    "@types/node": "22.13.4",
+    "@types/react": "19.0.10",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.0.8",
+    "typescript": "5.7.3"
+  }
+}
